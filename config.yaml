@@ -1,0 +1,11 @@
+server:
+  port: 7788
+db:
+  username: root
+  password: QWEasd1234
+  host: 39.105.34.206
+  port: 3306
+  database: go_data
+short:
+  prefix: https://localhost:7788
+  length: 8
