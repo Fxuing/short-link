@@ -3,7 +3,7 @@ server:
 db:
   username: root
   password: QWEasd1234
-  host: 39.105.34.206
+  host: 127.0.0.1
   port: 3306
   database: go_data
 short:
